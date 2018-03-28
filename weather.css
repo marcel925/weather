@@ -1,0 +1,58 @@
+
+html {
+  background: url(http://maxpixel.freegreatpicture.com/static/photo/1x/Sky-Cloud-Sunny-Background-Weather-Cloudy-Blue-216118.jpg);
+  background-size: 100% 100%;
+   background-repeat:no-repeat;
+}
+
+body {
+  text-align: center;
+  
+}
+
+#headText {
+  font-size: 1rem;
+  color: brown;
+}
+
+#headlineText {
+  font-size: 1.5rem;
+  color: brown;
+}
+
+#localWeather {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+#button1, #button2, #button3 {
+    background-color: rgba(0, 0, 255, 0.6);
+    border: none;
+    color: white;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+#button4 {
+    background-color: rgba(51, 119, 255, 0.6);
+    border: none;
+    color: white;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+#toggleMessage {
+  font-size: 1.5rem;
+}
